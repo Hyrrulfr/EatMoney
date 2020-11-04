@@ -1,0 +1,23 @@
+Admit it, every time you've looted, hunted, and traded for coins, the only thing you truly wanted was to find out what those copper, silver, gold, and platinum coins tasted like. 
+WONDER NO MORE! I have so graciously allowed any who install this mod to CONSUME COINS (in the form of nicely packaged meals, of course).
+
+This mod introduces:
+
+4 new food items:
+-Bag of Copper Coins, 50 Copper Coins! at a Cooking Pot!
+gives Well Fed buff.
+-Skewered Silver Coins, 20 Silver Coins! at a Cooking Pot!
+gives Plenty Satisfied buff.
+-Gold Coin Nuggets, 10 Gold Coins! also at a Cooking Pot!
+gives Exquisitely Stuffed buff.
+-Platinum Coin Cookie, 2 Platinum Coins! wait, this one needs a Crystal Ball. gives Blissfully Indulged buff.
+
+and
+3 buffs:
+-Plenty Satisfied
+-Exquisitely Stuffed
+(These are imperfect copies of the buffs of the same name in 1.4, I was regrettably unable to give them the mining speed or minion knockback buffs. I know, tragic.)
+-Blissfully Indulged, adds another point to each of the stats Exquisitely Stuffed gives, as well as giving 5% damage reduction! and some more life regeneration! (this is subject to change if too overpowered, but it should be fine.)
+
+Note: The quick buff hotkey will not work for any of these. I'm as devastated about this as you are, probably.
+Note 2: Only one of these buffs can be active at a time, e.g. consuming the Bag of Copper Coins will remove Blissfully Indulged and replace it with Well Fed. I take no responsibility, you have been warned!

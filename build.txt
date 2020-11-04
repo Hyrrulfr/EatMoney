@@ -1,0 +1,3 @@
+displayName = Eat Money
+author = F I R E
+version = 0.1
